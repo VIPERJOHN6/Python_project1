@@ -1,0 +1,37 @@
+1. Core Features
+
+Before anything, outline what the portal should do:
+
+✅ User Authentication: Patients, staff, and admins log in securely.
+
+✅ Patient Profile Management: View billing history, pending payments, receipts.
+
+✅ Billing & Invoicing: Automatically generate bills based on treatments, medications, consultations.
+
+✅ Payment Processing: Integration with payment gateways.
+
+✅ Insurance Integration: Allow patients to select insurance providers or coverage options.
+
+✅ Notifications: Email/SMS reminders for pending bills or successful payments.
+
+✅ Admin Dashboard: For hospital accountants to monitor transactions, generate reports, reconcile payments.
+
+✅ Security: Data encryption, compliance with HIPAA (US) / NDPR (Nigeria) / GDPR (EU).
+
+2. System Workflow
+
+Think about how the system flows:
+
+Patient registers or logs in.
+
+Patient views outstanding bills.
+
+Patient chooses payment option (Card, Bank Transfer, Insurance, etc.).
+
+System integrates with a payment gateway.
+
+Transaction confirmed → updates hospital records.
+
+Receipt generated (PDF/email).
+
+Admin dashboard updates with reports.
